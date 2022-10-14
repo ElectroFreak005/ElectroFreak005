@@ -18,7 +18,7 @@ I'm Natarajan G, IT undergraduate at SSN institutions Chennai. I'm quite interes
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,vscode,atom,github,html,css,javascript,jquery,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,vscode,atom,github,html,css,javascript,jquery,bootstrap,flask" />
   </a>
 </p>
 
