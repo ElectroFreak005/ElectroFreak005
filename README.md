@@ -4,10 +4,6 @@
 
 I'm Natarajan G, IT undergraduate at SSN institutions Chennai. I'm quite interested in tech stuff , web development , competitive coding. I always look forward to learning new cool stuff.😄
 
-- :seedling: Hobbies: Exploring new Tech, Watching movies and series.
-
-- :zap: In my free time, I work on some small projects to improve my dev skills.
-
 - :mailbox: How to reach me: tharun005005@gmail.com
 
 - 😄 Pronouns: He/Him
