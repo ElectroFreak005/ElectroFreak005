@@ -2,8 +2,7 @@
   Heyy there!!👋
 </h1>
 
-I'm Natarajan G, IT undergraduate at SSN institutions Chennai. I'm quite interested in tech stuff , web development , competitive coding. I always look forward to learning new cool stuff.😄
-
+I'm Natarajan G, IT undergraduate at SSN institutions Chennai.
 - :mailbox: How to reach me: tharun005005@gmail.com
 
 - 😄 Pronouns: He/Him
