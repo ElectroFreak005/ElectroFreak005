@@ -13,7 +13,7 @@ I'm Natarajan G, IT undergraduate at SSN institutions Chennai.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,react,python,dart,flutter,cpp,vscode,atom,github,html,css,javascript,jquery,bootstrap,flask,nodejs" />
+    <img src="https://skillicons.dev/icons?i=java,react,python,dart,flutter,cpp,vscode,atom,github,html,css,javascript,jquery,bootstrap,flask,nodejs,express" />
   </a>
 </p>
 
