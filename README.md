@@ -2,7 +2,7 @@
   Heyy there!!👋
 </h1>
 
-I'm Natarajan G, IT undergraduate at SSN institutions Chennai.
+I'm Natarajan G, Junior Software Developer at Greater Goods Chennai.
 - :mailbox: How to reach me: tharun005005@gmail.com
 
 - 😄 Pronouns: He/Him
