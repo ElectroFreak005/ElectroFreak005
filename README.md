@@ -13,7 +13,7 @@ I'm Natarajan G, Junior Software Developer at Greater Goods Chennai.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,react,python,dart,flutter,cpp,vscode,atom,github,html,css,javascript,jquery,bootstrap,flask,nodejs,express" />
+    <img src="https://skillicons.dev/icons?i=c,java,react,python,dart,flutter,cpp,vscode,atom,github,html,css,javascript,jquery,bootstrap,flask,nodejs,express" />
   </a>
 </p>
 
